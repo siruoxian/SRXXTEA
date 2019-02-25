@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SRXXTEA"
-  s.version      = "1.0.0"
-  s.summary      = "A short description of SRXXTEA.SRXXTEA create by siruoxian"
+  s.version      = "1.0.1"
+  s.summary      = "SRXXTEA create by siruoxian,SRXXTEA copy from XXTEA , SRXXTEA is personal XXTEA"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-  for private project
+  import the SRXXTEA to you project,XXTEA for private project,  import the SRXXTEA to you project,XXTEA for private project,
                    DESC
 
   s.homepage     = "https://github.com/siruoxian/SRXXTEA"
