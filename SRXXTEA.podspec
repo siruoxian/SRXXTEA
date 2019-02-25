@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SRXXTEA"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "SRXXTEA create by siruoxian,SRXXTEA copy from XXTEA , SRXXTEA is personal XXTEA"
 
   # This description is used to generate tags and improve search results.
